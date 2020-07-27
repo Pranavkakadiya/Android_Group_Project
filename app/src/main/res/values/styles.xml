@@ -7,4 +7,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="textViewsStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
 </resources>
