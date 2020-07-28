@@ -24,6 +24,7 @@
                 style="@style/textViewsStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/baloo_bhai"
                 android:gravity="center_horizontal"
                 android:text="Login"
                 android:textSize="24sp" />
